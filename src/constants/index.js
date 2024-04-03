@@ -116,34 +116,36 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "PHP Developer Intern",
+    company_name: "Siraom Private Limited",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "April 2023 - June 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "During my internship with siraom industry, I had the opportunity to lead the development of a fully functional ecommerce website using PHP, Laravel and MySQL. ",
+      "As part of the project, I collaborated closely with the design team to ensure a seamless user experience and implemented various features such as a product catalog, shopping cart, Product Page, etc",
+      "One of my significant contributions to the project was implementing a robust user authentication system.",
+
+      "Leveraging Laravel's authentication features, I designed and integrated a secure registration and login process, allowing users to create accounts an access personalized features on the website..",
+
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Full-Stack Developer Intern",
+    company_name: "Webalar",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "April 2023 - july 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Webalar is a web design and development company that helps businesses of all sizes create and maintain high-quality websites.",
+      "Worked on several different projects, contributing to the development of high-quality websites for clients of varying industries and sizes",
+      "Worked on 10+ dynamic websites for clients over the course of the time.",
+      "I actively contributed to projects using React.js, Next.js, JavaScript, and Node.js, gaining valuable hands-on experience in each of these languages.",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "MERN stack Developer",
+    company_name: "College InHouse Project Development",
     icon: shopify,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
